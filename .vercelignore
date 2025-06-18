@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+markdown_files/
+downloaded_threads/
+preprocess.py
+playwright/
